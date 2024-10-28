@@ -1,0 +1,35 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #BDBDBD;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #424242;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #757575;
+}
+
+body {
+  padding-top: 56px;
+  background-color: #FFFFFF;
+  color: #212121;
+}
+
+nav {
+  background-color: #212121;
+}
+
+.card {
+  background-color: #FAFAFA;
+  color: #212121;
+}
+
+#svg {
+  height: 25px;
+  width: 25px;
+}
